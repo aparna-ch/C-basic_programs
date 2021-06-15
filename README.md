@@ -6,3 +6,4 @@
 
 #C program for Matrix Addition
 
+#C program for linear search and binary search

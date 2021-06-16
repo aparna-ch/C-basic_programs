@@ -14,4 +14,4 @@
 
 #C program to print the digits of a number
 
-#C program to count the number of dighits of a number
+#C program to count the number of dighit of a number

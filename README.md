@@ -15,4 +15,6 @@
 
 #C program to print the digits of a number
 
-#C program to count the number of dighit of a number
+#C program to count the number of digits of a number
+
+#C program to use sizeof() operator to print the size in bytes of different datatypes in C
